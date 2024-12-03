@@ -1,0 +1,2 @@
+[담당별 역할 , 코드 관리자 ]
+memberView.class : 유재석
